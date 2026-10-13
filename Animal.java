@@ -10,7 +10,7 @@ package relacionentreclases;
  */
 import java.util.Scanner;
 
-class Animal {
+public class Animal {
     protected String nombre;
 
     public Animal(String nombre) { this.nombre = nombre; }
